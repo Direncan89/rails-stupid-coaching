@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+color: blue;
+ }
+
+#question {
+  background-color: rgba(0, 140, 255, 0.5);
+  font-size: 24px;
+
+}
+
+#response {
+  background-color: rgba(255, 255, 0, 0.72);
+  font-size: 24px;
+
+}
